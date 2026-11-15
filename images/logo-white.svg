@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <circle cx="12" cy="27" r="6" stroke="#3fa9f5"/>
+    <circle cx="28" cy="13" r="6" stroke="#ffffff"/>
+    <path d="M16.5 22.5 23.5 17.5" stroke="#ffffff"/>
+  </g>
+  <text x="44" y="27" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="1.5" fill="#ffffff">NORTHLINK</text>
+</svg>

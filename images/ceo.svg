@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="480" viewBox="0 0 400 480">
+  <rect width="400" height="480" fill="#e8f4fe"/>
+  <circle cx="200" cy="180" r="72" fill="#9fb3c8"/>
+  <path d="M70 480c0-90 58-150 130-150s130 60 130 150z" fill="#13315c"/>
+  <path d="M182 330h36l-18 60z" fill="#ffffff"/>
+  <text x="200" y="456" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#ffffff" opacity=".8">PHOTO</text>
+</svg>

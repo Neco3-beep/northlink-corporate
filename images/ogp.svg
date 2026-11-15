@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b2545"/>
+  <circle cx="1060" cy="120" r="260" fill="#13315c"/>
+  <circle cx="1060" cy="120" r="180" fill="none" stroke="#3fa9f5" stroke-width="2" opacity=".5"/>
+  <circle cx="140" cy="600" r="160" fill="#1d6fd8" opacity=".35"/>
+  <text x="96" y="250" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="8" fill="#3fa9f5">NORTHLINK</text>
+  <text x="96" y="340" font-family="sans-serif" font-size="56" font-weight="700" fill="#ffffff">つなぐ技術で、</text>
+  <text x="96" y="420" font-family="sans-serif" font-size="56" font-weight="700" fill="#ffffff">ビジネスの明日をつくる。</text>
+  <text x="96" y="500" font-family="sans-serif" font-size="28" fill="#ffffff" opacity=".85">株式会社ノースリンク</text>
+</svg>
